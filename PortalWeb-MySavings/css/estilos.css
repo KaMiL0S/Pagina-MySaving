@@ -1,0 +1,25 @@
+.camb, nav{
+	background: #58595b !important;
+	color: #fff !important;
+}
+footer{
+	background: #58595b;
+}
+.camb:hover{
+	color: #333 !important;
+	background: #fff !important;
+}
+a:link, a:visited, a:active{
+	text-decoration:none;
+}
+h2{
+	text-align: center;
+}
+header{
+	position: fixed;
+	z-index: 100;
+	width: 100%;
+}
+h2{
+	color: #58595b;
+}
